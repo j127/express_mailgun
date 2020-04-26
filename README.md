@@ -1,5 +1,7 @@
 # Mailgun + Node.js Example
 
+## NOT WORKING YET
+
 A quick example.
 
 Install with `npm install`.
