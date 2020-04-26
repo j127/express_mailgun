@@ -2,11 +2,16 @@
     "name": "@j127/express_mailgun",
     "version": "0.1.0",
     "description": "A quick example on how to send emails with Node.js",
-    "main": "index.js",
+    "main": "app.js",
     "scripts": {
-        "start": "nodemon app.js"
+        "start": "node app.js"
     },
     "keywords": [],
     "author": "J. Cohen <hostelmarketing@gmail.com> (https://github.com/j127)",
-    "license": "BSD-3-Clause"
+    "license": "BSD-3-Clause",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "html-to-text": "^5.1.1",
+        "mailgun-js": "^0.22.0"
+    }
 }
