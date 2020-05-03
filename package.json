@@ -1,5 +1,5 @@
 {
-    "name": "@j127/express_mailgun",
+    "name": "@j127/node_mailgun",
     "version": "0.1.0",
     "description": "A quick example on how to send emails with Node.js",
     "main": "app.js",
